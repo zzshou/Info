@@ -1,1 +1,1 @@
-[Welcome to my page.](https://zzshou.github.io/info/)
+[Welcome to my page.](https://zzshou.github.io/Info/)
