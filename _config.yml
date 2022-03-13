@@ -11,9 +11,9 @@ title                    : "Ziyi SHOU"
 title_separator          : "-"
 name                     : &name "Ziyi SHOU"
 description              : &description "personal description"
-url                      : https://zzshou.github.io/info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zzshou.github.io/Info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zzshou/info"
+repository               : "zzshou/Info"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
