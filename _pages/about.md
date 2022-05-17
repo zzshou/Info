@@ -14,7 +14,7 @@ My research interests lie in the area of semantic representation, Abstract Meani
 
 Publications
 ======
-**Shou, Ziyi**, Yuxin Jiang, Fangzhen Lin, "AMR-DA: Data Augmentation By Abstract Meaning Representation" Findings of ACL 2022.
+**Shou, Ziyi**, Yuxin Jiang, Fangzhen Lin, "AMR-DA: Data Augmentation By Abstract Meaning Representation" Findings of ACL 2022. [PDF](https://aclanthology.org/2022.findings-acl.244)
 
 **Shou, Ziyi**, and Fangzhen Lin. "Incorporating EDS Graph for AMR Parsing." Proceedings of* SEM 2021: The Tenth Joint Conference on Lexical and Computational Semantics. 2021. [PDF](https://aclanthology.org/2021.starsem-1.19/)
 
